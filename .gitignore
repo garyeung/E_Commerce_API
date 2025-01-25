@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# Developing Things 
+DETAIL.md
+Progression.md
+.env
+
+# package
+package-lock.json
+
+# vim
+*~
+
+# my build
+dist/
+
+# VSCode
+.vscode/
